@@ -30,5 +30,32 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": {
+        "first": "Phillip",
+        "middle": "Cole",
+        "last": "Lewis"
+      },
+      "dob": "08 June 1982",
+      "address": {
+        "type": "Original",
+        "street": "96 Longhurst Rd",
+        "building": null,
+        "suburb": "Minto",
+        "state": "NSW",
+        "postcode": 2576
+      },
+      "phone": {
+        "type": "Mobile",
+        "number": "0459599061"
+      },
+      "email": {
+        "type": "Personal",
+        "address": "pclewis82@gmail.com"
+      }
+    }
   ]
 }
