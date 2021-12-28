@@ -1,13 +1,11 @@
 {
   "profiles": [
     {
-      "id": 1,
-      "name": {
-        "first": "Phillip",
-        "middle": "Cole",
-        "last": "Lewis"
-      },
-      "dob": "08 June 1982",
+      "id": "if6rfcrwx",
+      "firstName": "John",
+      "middleName": "Doe",
+      "lastName": "Example",
+      "dob": 317394000
       "address": {
         "type": "Original",
         "street": "96 Longhurst Rd",
@@ -24,6 +22,12 @@
         "type": "Personal",
         "address": "pclewis82@gmail.com"
       }
+    },
+    {
+      "id": "e8p0zk7m7",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "dob": 212421600
     }
   ]
 }
