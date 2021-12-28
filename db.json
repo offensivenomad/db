@@ -5,7 +5,7 @@
       "firstName": "John",
       "middleName": "Doe",
       "lastName": "Example",
-      "dob": 317394000
+      "dob": 317394000,
       "address": {
         "type": "Original",
         "street": "96 Longhurst Rd",
